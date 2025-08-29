@@ -7,3 +7,6 @@
 - **Collaboration**: cloning repositories, keeping local code up to date with `git pull`, and contributing changes through commits and pushes.
 - **Commit Practices**: importance of small, focused commits with clear commit messages.
 - **Problem Solving**: how Git helps manage code versions, avoid conflicts, and support teamwork in development projects.
+
+### Next Steps
+- Explore feature branches and pull requests.
